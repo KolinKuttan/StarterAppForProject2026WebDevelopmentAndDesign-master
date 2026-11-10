@@ -79,6 +79,15 @@
     "price": 18.5,
     "image": "/images/products/product-9.svg",
     "alt": "Placeholder image for Travel Mug"
+  },
+  {
+    "id": "10",
+    "name": "Expensive Bottle Of Water",
+    "category": "Accessories",
+    "description": "Bottle not worth buying",
+    "price": 20.5,
+    "image": "/images/products/product-10.svg",
+    "alt": "Placeholder image for Expensive Bottle Of Water"
   }
 
 ]

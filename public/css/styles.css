@@ -23,14 +23,21 @@ nav li {
 
 nav ul li a:hover {
     color: white;
-    background-color: rgb(100, 0, 27);
+    background-color: rgb(255, 255, 255);
 }
 
 p {
     color: blue;
 }
 
-
-
-
-
+.grid-container {
+  display: grid;
+  grid-template-areas:
+  'header'
+  'menu'
+  'main'
+  'facts'
+  'footer';
+  background-color: white;
+  gap: 10px;
+}
